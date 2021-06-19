@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...developing web apps
 - 🌱 I’m currently learning ...react js
 - 💞️ I’m looking to collaborate on ...open source
-- 📫 How to reach me ...mail-whitewolffive@gmail.com
+- 📫 How to reach me ...mail- whitewolffive@gmail.com
 
 <!---
 devxSunny/devxSunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
