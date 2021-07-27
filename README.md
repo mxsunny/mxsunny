@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devxSunny
+- 👋 Hi, I’m @devXsunny
 - 👀 I’m interested in ...developing web apps
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...front end
 - 💞️ I’m looking to collaborate on ...open source
 - 📫 How to reach me ...mail- whitewolffive@gmail.com
 
